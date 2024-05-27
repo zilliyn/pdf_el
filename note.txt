@@ -1,0 +1,16 @@
+<script>alert(1)</script>
+
+pentration testing
+ 
+ ->sast
+ ->dast
+ .web security
+ .mobile security
+ .api security
+ -malware analysis
+ -soc analysis
+ -thread hunting
+ -security audit
+ -iar
+ -ir (acess management)
+ 

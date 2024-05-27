@@ -1,0 +1,236 @@
+Here are 30 cybersecurity search engines:🖥👁📚📃
+
+1. Dehashed—View leaked credentials.
+2. SecurityTrails—Extensive DNS data.
+3. DorkSearch—Really fast Google dorking.
+4. ExploitDB—Archive of various exploits.
+5. ZoomEye—Gather information about targets.
+6. Pulsedive—Search for threat intelligence.
+7. GrayHatWarefare—Search public S3 buckets.
+8. PolySwarm—Scan files and URLs for threats.
+9. Fofa—Search for various threat intelligence.
+10. LeakIX—Search publicly indexed information.
+11. DNSDumpster—Search for DNS records quickly.
+13. FullHunt—Search and discovery attack surfaces.
+14. AlienVault—Extensive threat intelligence feed.
+12. ONYPHE—Collects cyber-threat intelligence data.
+15. Grep App—Search across a half million git repos.
+17. URL Scan—Free service to scan and analyse websites.
+18. Vulners—Search vulnerabilities in a large database.
+19. WayBackMachine—View content from deleted websites.
+16. Shodan—Search for devices connected to the internet.
+21. Netlas—Search and monitor internet connected assets.
+22. CRT sh—Search for certs that have been logged by CT.
+20. Wigle—Database of wireless networks, with statistics.
+23. PublicWWW—Marketing and affiliate marketing research.
+24. Binary Edge—Scans the internet for threat intelligence.
+25. GreyNoise—Search for devices connected to the internet.
+26. Hunter—Search for email addresses belonging to a website.
+27. Censys—Assessing attack surface for internet connected devices.
+28. IntelligenceX—Search Tor, I2P, data leaks, domains, and emails.
+29. Packet Storm Security—Browse latest vulnerabilities and exploits.
+30. SearchCode—Search 75 billion lines of code from 40 million projects.
+
+
+🔰ADVANCE GOOGLE DORKING | FULL SERIES | PRO DORKING 🔰
+
+
+📌  1. An introduction to google dorking
+
+🔗 Link :- https://bit.ly/3SMa9Q0
+
+📌 2. Be a king of google dorking 
+
+🔗 Link :- https://bit.ly/3epyaNM
+
+📌 3. Basic syntax of google dorking
+
+🔗 Link :- https://bit.ly/3EruMwA
+
+📌 4. Extended google search operator syntax
+
+🔗 Link :- https://bit.ly/3rDrcbf
+
+📌 5. Advance google search operator
+
+🔗 Link :- https://bit.ly/3EupEIe
+
+📌 6. Basic to complex to advance google dorking
+
+🔗 Link :- https://bit.ly/3fW90qr
+
+📌 7. Google regex system
+
+🔗 Link :- https://bit.ly/3Cn2P6z
+
+📌 8. Finding SQLi using advance google dorking 
+
+🔗 Link :- https://bit.ly/3RIK6I5
+
+📌 9. Stringed or extended dorks
+
+🔗 Link :- https://bit.ly/3RSvq9s
+
+📌 10. Real world google dorking 
+
+🔗 Link :- https://bit.ly/3T51ic3
+
+📌 11. Google dorking queries explanation 
+
+🔗 Link :- https://bit.ly/3Tb8nbc
+
+📌 12. Advance google dorking cheatsheet pdf
+
+🔗 Link :- https://bit.ly/3T9EMP4
+
+@thecyberblogs
+
+=== thecyberblogs.com ===
+
+ctf website
+
+
+Academy Hackaflag BR - https://hackaflag.com.br
+Attack-Defense - https://attackdefense.com
+Alert to win - https://alf.nu/alert1
+CTF Komodo Security - https://ctf.komodosec.com
+CMD Challenge - https://cmdchallenge.com
+Explotation Education - https://exploit.education
+Google CTF - https://lnkd.in/e46drbz8
+HackTheBox - https://hackthebox.com
+Hackthis - https://hackthis.co.uk
+Hacksplaining - https://lnkd.in/eAB5CSTA
+Hacker101 - https://ctf.hacker101.com
+Hacker Security - https://lnkd.in/ex7R-C-e
+Hacking-Lab - https://hacking-lab.com
+HSTRIKE - https://hstrike.com
+mmersiveLabs I- https://immersivelabs.com
+NewbieContest - https://lnkd.in/ewBk6fU5
+OverTheWire - http://overthewire.org
+Practical Pentest Labs - https://lnkd.in/esq9Yuv5
+Pentestlab - https://pentesterlab.com
+Penetration Testing Practice Labs - https://lnkd.in/e6wVANYd
+PentestIT LAB - https://lab.pentestit.ru
+PicoCTF - https://picoctf.com
+PWNABLE - https://lnkd.in/eMEwBJzn
+Root-Me - https://root-me.org
+Root in Jail - http://rootinjail.com
+SANS Challenger - https://lnkd.in/e5TAMawK
+SmashTheStack - https://lnkd.in/eVn9rP9p
+The Cryptopals Crypto Challenges - https://cryptopals.com
+Try Hack Me - https://tryhackme.com
+Vulnhub - https://vulnhub.com
+W3Challs - https://w3challs.com
+WeChall - http://wechall.net
+
+⛔⛔TRYHACKME ROADMAP⛔⛔
+
+
+
+# Level 1 - Intro
+- [ ] OpenVPN https://tryhackme.com/room/openvpn
+- [ ] Welcome https://tryhackme.com/jr/welcome
+- [ ] Intro to Researching https://tryhackme.com/room/introtoresearch
+- [ ] Learn Linux https://tryhackme.com/room/zthlinux
+- [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
+
+Introductory CTFs to get your feet wet
+
+- [ ] Google Dorking https://tryhackme.com/room/googledorking
+- [ ] OHsint https://tryhackme.com/room/ohsint
+- [ ] Shodan.io https://tryhackme.com/room/shodan
+
+# Level 2 - Tooling
+- [ ] Tmux https://tryhackme.com/room/rptmux
+- [ ] Nmap https://tryhackme.com/room/rpnmap
+- [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
+- [ ] Sublist3r https://tryhackme.com/room/rpsublist3r
+- [ ] Metasploit https://tryhackme.com/room/rpmetasploit
+- [ ] Hydra https://tryhackme.com/room/hydra
+- [ ] Linux Privesc https://tryhackme.com/room/linuxprivesc
+- [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
+
+More introductory CTFs
+- [ ] Vulnversity - https://tryhackme.com/room/vulnversity
+- [ ] Blue - https://tryhackme.com/room/blue
+- [ ] Simple CTF https://tryhackme.com/room/easyctf
+- [ ] Bounty Hacker https://tryhackme.com/room/cowboyhacker
+
+# Level 3 - Crypto & Hashes with CTF practice
+- [ ] Crack the hash https://tryhackme.com/room/crackthehash
+- [ ] Agent Sudo https://tryhackme.com/room/agentsudoctf
+- [ ] The Cod Caper https://tryhackme.com/room/thecodcaper
+- [ ] Ice https://tryhackme.com/room/ice
+- [ ] Lazy Admin https://tryhackme.com/room/lazyadmin
+- [ ] Basic Pentesting https://tryhackme.com/room/basicpentestingjt
+
+# Level 4 - Web
+- [ ] OWASP top 10 https://tryhackme.com/room/owasptop10
+- [ ] Inclusion https://tryhackme.com/room/inclusion
+- [ ] Injection https://tryhackme.com/room/injection
+- [ ] Vulnversity https://tryhackme.com/room/vulnversity
+- [ ] Basic Pentesting https://tryhackme.com/room/basicpentestingjt
+- [ ] Juiceshop https://tryhackme.com/room/owaspjuiceshop
+- [ ] Ignite https://tryhackme.com/room/ignite
+- [ ] Overpass https://tryhackme.com/room/overpass
+- [ ] Year of the Rabbit https://tryhackme.com/room/yearoftherabbit
+- [ ] DevelPy https://tryhackme.com/room/bsidesgtdevelpy
+- [ ] Jack of all trades https://tryhackme.com/room/jackofalltrades
+- [ ] Bolt https://tryhackme.com/room/bolt
+
+# Level 5 - Reverse Engineering
+- [ ] Intro to x86 64 https://tryhackme.com/room/introtox8664
+- [ ] CC Ghidra https://tryhackme.com/room/ccghidra
+- [ ] CC Radare2 https://tryhackme.com/room/ccradare2
+- [ ] CC Steganography https://tryhackme.com/room/ccstego
+- [ ] Reverse Engineering https://tryhackme.com/room/reverseengineering
+- [ ] Reversing ELF https://tryhackme.com/room/reverselfiles
+- [ ] Dumping Router Firmware https://tryhackme.com/room/rfirmware
+
+# Level 6 - PrivEsc
+- [ ] Sudo Security Bypass https://tryhackme.com/room/sudovulnsbypass
+- [ ] Sudo Buffer Overflow https://tryhackme.com/room/sudovulnsbof
+- [ ] Windows Privesc Arena https://tryhackme.com/room/windowsprivescarena
+- [ ] Linux Privesc Arena https://tryhackme.com/room/linuxprivescarena
+- [ ] Windows Privesc https://tryhackme.com/room/windows10privesc
+- [ ] Blaster https://tryhackme.com/room/blaster
+- [ ] Ignite https://tryhackme.com/room/ignite
+- [ ] Kenobi https://tryhackme.com/room/kenobi
+- [ ] Capture the flag https://tryhackme.com/room/c4ptur3th3fl4g
+- [ ] Pickle Rick https://tryhackme.com/room/picklerick
+
+# Level 7 - CTF practice
+- [ ] Post Exploitation Basics https://tryhackme.com/room/postexploit
+- [ ] Smag Grotto https://tryhackme.com/room/smaggrotto
+- [ ] Inclusion https://tryhackme.com/room/inclusion
+- [ ] Dogcat https://tryhackme.com/room/dogcat
+- [ ] LFI basics https://tryhackme.com/room/lfibasics
+- [ ] Buffer Overflow Prep https://tryhackme.com/room/bufferoverflowprep
+- [ ] Overpass https://tryhackme.com/room/overpass
+- [ ] Break out the cage https://tryhackme.com/room/breakoutthecage1
+- [ ] Lian Yu https://tryhackme.com/room/lianyu
+
+
+The Ultimate Hacker's Roadmap💠
+
+1. Basic Computer Skills - Computer skills refer to the knowledge and abilities required to operate computers and related technology.
+
+2. Basic Networking Skills - Networking skills are one of the most important talents to have if you want to be an ethical hacker.
+
+3. Linux Skills - Linux is the most popular choice for hackers due to its flexibility, open source platform, portability and command line interface and compatibility with popular hacking tools.
+
+4. Programming/Scripting Skills - Programming skills are essential to becoming an effective hacke. One reason you want to know how to code as a hacker is so you can modify scripts that you will use to hack into different systems
+
+5. PEH by TCM - In this course, you will learn the practical side of ethical hacking. This course focus only on tools and topics that will make you successful as an ethical hacker. The course is incredibly hands on and will cover many foundational topics.
+
+6. Practise with vulnerable labs (Tryhackme/Hackthebox/Vulnhub)
+
+7. eJPT - The eLearnSecurity Junior Penetration Tester (eJPT) is a 100% practical certification on penetration testing and information security essentials. By passing the exam, a cyber security professional proves to employers they are ready for a rewarding new career.
+
+8. OSCP - This online ethical hacking course is self-paced. It introduces penetration testing tools and techniques via hands-on experience. PEN-200 trains not only the skills, but also the mindset required to be a successful penetration tester.
+
+or
+
+Practical Network Penetration Tester Certification (PNPT) -The PNPT exam is a one-of-a-kind ethical hacking certification exam that assesses a student’s ability to perform a network penetration test at a professional level.
+
+9. Keep updating yourself - Hacking is a long time journey of learning, we must not enter just to hack wifi password or to hack someone’s phone, As time goes by there are new vulnerabilities discovered and patched, thus we must be eager to learn new things.

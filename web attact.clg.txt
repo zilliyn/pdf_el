@@ -1,0 +1,42 @@
+nmap  -sV -vv arms.sse.saveetha.com 
+Starting Nmap 7.93 ( https://nmap.org ) at 2023-02-15 12:13 EST
+NSE: Loaded 45 scripts for scanning.
+Initiating Ping Scan at 12:13
+Scanning arms.sse.saveetha.com (180.235.121.242) [2 ports]
+Completed Ping Scan at 12:13, 0.02s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 12:13
+Completed Parallel DNS resolution of 1 host. at 12:13, 0.47s elapsed
+Initiating Connect Scan at 12:13
+Scanning arms.sse.saveetha.com (180.235.121.242) [1000 ports]
+Discovered open port 80/tcp on 180.235.121.242
+Discovered open port 443/tcp on 180.235.121.242
+Increasing send delay for 180.235.121.242 from 0 to 5 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 180.235.121.242 from 5 to 10 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 180.235.121.242 from 10 to 20 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 180.235.121.242 from 20 to 40 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 180.235.121.242 from 40 to 80 due to 11 out of 11 dropped probes since last increase.
+Completed Connect Scan at 12:15, 76.46s elapsed (1000 total ports)
+Initiating Service scan at 12:15
+Scanning 2 services on arms.sse.saveetha.com (180.235.121.242)
+Completed Service scan at 12:15, 12.14s elapsed (2 services on 1 host)
+NSE: Script scanning 180.235.121.242.
+NSE: Starting runlevel 1 (of 2) scan.
+Initiating NSE at 12:15
+Completed NSE at 12:15, 21.64s elapsed
+NSE: Starting runlevel 2 (of 2) scan.
+Initiating NSE at 12:15
+Completed NSE at 12:15, 0.18s elapsed
+Nmap scan report for arms.sse.saveetha.com (180.235.121.242)
+Host is up, received syn-ack (0.017s latency).
+rDNS record for 180.235.121.242: PTPL-AS56272-REV-242.121.235.180-CHN.PULSE.IN
+Scanned at 2023-02-15 12:13:53 EST for 111s
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE  REASON  VERSION
+80/tcp  open  http     syn-ack Microsoft IIS httpd 8.5
+443/tcp open  ssl/http syn-ack Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 114.68 seconds
+           
